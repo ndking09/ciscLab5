@@ -24,5 +24,5 @@ public class Cell {
 	public int hashCode() {
 		return Objects.hash(iRow, iCol);
 	}
-
+// 
 }
